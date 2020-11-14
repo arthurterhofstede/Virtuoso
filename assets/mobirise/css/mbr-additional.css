@@ -1603,6 +1603,14 @@ section.lazy-placeholder:after {
 .cid-rPCPwSPXt4 H2 {
   color: #232323;
 }
+.cid-sgimaerj8v {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20180423-182958-2000x1500.jpg");
+}
+.cid-sgimaerj8v .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rPO1sFzL5g .navbar {
   background: #c1c1c1;
   transition: none;
